@@ -52,7 +52,7 @@ Function SystemVariable()
 	Set objShell    = CreateObject("WScript.Shell")
 	vUserProfile    = objShell.ExpandEnvironmentStrings("%UserProfile%")
 	
-	SystemVariable  = vDate & "|" & vTime & "|" & vUserProfile & "\Documents\A2019\Sales Order Entry"
+	SystemVariable  = vDate & "|" & vTime & "|" & vUserProfile & "\Documents\A2019"
 	
-	'WScript.StdOut.WriteLine (SystemVariable)
+	WScript.StdOut.WriteLine (SystemVariable)
 End Function
