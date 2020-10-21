@@ -1,0 +1,1 @@
+{"path":"Automation Anywhere\\Bots\\Kohler\\MasterTask_Kohler_DataExtraction","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\Kohler\\SubTask_Kohler_DataExtraction_Canada","Automation Anywhere\\Bots\\Kohler\\SubTask_Kohler_DataExtraction_US"]}
