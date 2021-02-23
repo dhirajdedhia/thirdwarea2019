@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Path>
+
+<InputFilePath>C:/Users/pavithra.balamurugan/Documents/DetectLanguage/Invoices/</InputFilePath>
+
+<OutputFilePath>C:/Users/pavithra.balamurugan/Documents/DetectLanguage/Output/</OutputFilePath>
+
+<LanguageFolder>C:/Users/pavithra.balamurugan/Documents/DetectLanguage/</LanguageFolder>
+
+<LogFilePath>C:/Users/pavithra.balamurugan/Documents/DetectLanguage/Log/</LogFilePath>
+
+<SplittedFolderPath>C:/Users/pavithra.balamurugan/Documents/DetectLanguage/InvoiceSplitted/</SplittedFolderPath>
+
+</Path>
