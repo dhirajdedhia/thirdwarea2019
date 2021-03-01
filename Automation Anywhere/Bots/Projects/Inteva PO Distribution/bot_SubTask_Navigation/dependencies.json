@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\Projects\\Inteva PO Distribution\\SubTask_Navigation","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\Projects\\Inteva PO Distribution\\SubTask_Navigation","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\Projects\\Inteva PO Distribution\\SubTask_SearchPrint"]}
