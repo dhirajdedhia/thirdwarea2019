@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\LanguageDetect\\LanguageDetectionBot","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\LanguageDetect\\detectLanguage.py","Automation Anywhere\\Bots\\LanguageDetect\\PathConfig.xml"]}
+{"path":"Automation Anywhere\\Bots\\LanguageDetect\\LanguageDetectionBot","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\LanguageDetect\\PathConfig.xml","Automation Anywhere\\Bots\\LanguageDetect\\detectLanguage.py"]}
